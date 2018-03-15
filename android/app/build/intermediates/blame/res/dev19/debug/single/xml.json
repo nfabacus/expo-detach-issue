@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\expo-detach-issue\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\xml\\provider_paths.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\8785fd8c4e4d1f2c2370fdc54b220b3d7c675cd8\\output\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\expo-detach-issue\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\xml\\preferences.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\1cb759fb27054b455cc870462dfe27cca7069136\\output\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\expo-detach-issue\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\xml\\stub_classic.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\8785fd8c4e4d1f2c2370fdc54b220b3d7c675cd8\\output\\res\\xml\\stub_classic.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\expo-detach-issue\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\xml\\stub_material.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\8785fd8c4e4d1f2c2370fdc54b220b3d7c675cd8\\output\\res\\xml\\stub_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\expo-detach-issue\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\xml\\global_tracker.xml",
+        "source": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\expo-detach-issue\\android\\app\\build\\generated\\res\\google-services\\dev19\\debug\\xml\\global_tracker.xml"
+    }
+]

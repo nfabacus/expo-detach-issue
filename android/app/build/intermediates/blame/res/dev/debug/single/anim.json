@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\expo-detach-issue\\android\\app\\build\\intermediates\\res\\merged\\dev\\debug\\anim\\slide_up.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\a969002e7706bf4bf3f38d54646a4ad8f3607c6c\\output\\res\\anim\\slide_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\expo-detach-issue\\android\\app\\build\\intermediates\\res\\merged\\dev\\debug\\anim\\catalyst_push_up_in.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\1cb759fb27054b455cc870462dfe27cca7069136\\output\\res\\anim\\catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\expo-detach-issue\\android\\app\\build\\intermediates\\res\\merged\\dev\\debug\\anim\\fade_out.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\a969002e7706bf4bf3f38d54646a4ad8f3607c6c\\output\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\expo-detach-issue\\android\\app\\build\\intermediates\\res\\merged\\dev\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\da254ae322790e1704d2536011076c0a049a1f6c\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\expo-detach-issue\\android\\app\\build\\intermediates\\res\\merged\\dev\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\da254ae322790e1704d2536011076c0a049a1f6c\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\expo-detach-issue\\android\\app\\build\\intermediates\\res\\merged\\dev\\debug\\anim\\slide_down.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\a969002e7706bf4bf3f38d54646a4ad8f3607c6c\\output\\res\\anim\\slide_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\expo-detach-issue\\android\\app\\build\\intermediates\\res\\merged\\dev\\debug\\anim\\tooltip_exit.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\da254ae322790e1704d2536011076c0a049a1f6c\\output\\res\\anim\\tooltip_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\expo-detach-issue\\android\\app\\build\\intermediates\\res\\merged\\dev\\debug\\anim\\tooltip_enter.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\da254ae322790e1704d2536011076c0a049a1f6c\\output\\res\\anim\\tooltip_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\expo-detach-issue\\android\\app\\build\\intermediates\\res\\merged\\dev\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\da254ae322790e1704d2536011076c0a049a1f6c\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\expo-detach-issue\\android\\app\\build\\intermediates\\res\\merged\\dev\\debug\\anim\\catalyst_fade_out.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\1cb759fb27054b455cc870462dfe27cca7069136\\output\\res\\anim\\catalyst_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\expo-detach-issue\\android\\app\\build\\intermediates\\res\\merged\\dev\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\da254ae322790e1704d2536011076c0a049a1f6c\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\expo-detach-issue\\android\\app\\build\\intermediates\\res\\merged\\dev\\debug\\anim\\catalyst_slide_up.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\1cb759fb27054b455cc870462dfe27cca7069136\\output\\res\\anim\\catalyst_slide_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\expo-detach-issue\\android\\app\\build\\intermediates\\res\\merged\\dev\\debug\\anim\\catalyst_fade_in.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\1cb759fb27054b455cc870462dfe27cca7069136\\output\\res\\anim\\catalyst_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\expo-detach-issue\\android\\app\\build\\intermediates\\res\\merged\\dev\\debug\\anim\\cycle.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\e5c137a736b11c49597a034a59758ff1c205c1aa\\output\\res\\anim\\cycle.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\expo-detach-issue\\android\\app\\build\\intermediates\\res\\merged\\dev\\debug\\anim\\shake.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\e5c137a736b11c49597a034a59758ff1c205c1aa\\output\\res\\anim\\shake.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\expo-detach-issue\\android\\app\\build\\intermediates\\res\\merged\\dev\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\da254ae322790e1704d2536011076c0a049a1f6c\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\expo-detach-issue\\android\\app\\build\\intermediates\\res\\merged\\dev\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\da254ae322790e1704d2536011076c0a049a1f6c\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\expo-detach-issue\\android\\app\\build\\intermediates\\res\\merged\\dev\\debug\\anim\\fade_in.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\a969002e7706bf4bf3f38d54646a4ad8f3607c6c\\output\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\expo-detach-issue\\android\\app\\build\\intermediates\\res\\merged\\dev\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\da254ae322790e1704d2536011076c0a049a1f6c\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\expo-detach-issue\\android\\app\\build\\intermediates\\res\\merged\\dev\\debug\\anim\\catalyst_slide_down.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\1cb759fb27054b455cc870462dfe27cca7069136\\output\\res\\anim\\catalyst_slide_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\expo-detach-issue\\android\\app\\build\\intermediates\\res\\merged\\dev\\debug\\anim\\catalyst_push_up_out.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\1cb759fb27054b455cc870462dfe27cca7069136\\output\\res\\anim\\catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\expo-detach-issue\\android\\app\\build\\intermediates\\res\\merged\\dev\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\da254ae322790e1704d2536011076c0a049a1f6c\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\expo-detach-issue\\android\\app\\build\\intermediates\\res\\merged\\dev\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\da254ae322790e1704d2536011076c0a049a1f6c\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\expo-detach-issue\\android\\app\\build\\intermediates\\res\\merged\\dev\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\da254ae322790e1704d2536011076c0a049a1f6c\\output\\res\\anim\\abc_fade_out.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\expo-detach-issue\\android\\app\\build\\intermediates\\res\\merged\\dev\\debug\\animator\\card_flip_left_in.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\8785fd8c4e4d1f2c2370fdc54b220b3d7c675cd8\\output\\res\\animator\\card_flip_left_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\expo-detach-issue\\android\\app\\build\\intermediates\\res\\merged\\dev\\debug\\animator\\card_flip_left_out.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\8785fd8c4e4d1f2c2370fdc54b220b3d7c675cd8\\output\\res\\animator\\card_flip_left_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\expo-detach-issue\\android\\app\\build\\intermediates\\res\\merged\\dev\\debug\\animator\\card_flip_right_out.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\8785fd8c4e4d1f2c2370fdc54b220b3d7c675cd8\\output\\res\\animator\\card_flip_right_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\expo-detach-issue\\android\\app\\build\\intermediates\\res\\merged\\dev\\debug\\animator\\card_flip_right_in.xml",
+        "source": "C:\\Users\\HP Pavilion\\.android\\build-cache\\8785fd8c4e4d1f2c2370fdc54b220b3d7c675cd8\\output\\res\\animator\\card_flip_right_in.xml"
+    }
+]

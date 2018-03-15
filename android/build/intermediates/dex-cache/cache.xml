@@ -1,0 +1,1139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-ws\3.4.1\8ace66ef7002d98f633377c9e67daeeb196d8c3b\okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\okhttp-ws-3.4.1_71ca5d0f8ddb538d183a78763e3c3cdc8c2351b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\f529a661fa0d0ed2bfdc112ef33a5fa6ce9a13d2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ab6e491b5d7bda2f47991a30f6bfe9a8b134ff8b">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_a0b9ed708988f8eed283b54777ce26210f679ace\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\okhttp-3.4.1_5659aaf263fe96fb354f1341fcc38b736aac7d9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\bef92598ed377ce558d9eb6cfd7e2c3ec8f2331a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_2dfe4a86dd8dd4097bb76ffbc19b77e1095e2aa9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.gradle\caches\modules-2\files-2.1\com.raizlabs.android\DBFlow-Core\2.2.1\e07bfc8e2041edf27469bd94e08bc19f52f4dee7\DBFlow-Core-2.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e07bfc8e2041edf27469bd94e08bc19f52f4dee7">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\DBFlow-Core-2.2.1_1891455d3b6ae2a7033f312edd77fa5ce9c02ddc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\54dea66f68f32e481a07d88dc71e350131879eed\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="79b01f1eace6ce22c6ffd67000bd6b5c5d2477a9">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_84df1e78880982c9d2740b826ae46be64c6ccc12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\4987fb65d16a41c8ae3410bf1ae737843a38e97d\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ea01f90e60978bc6871543cd76136a97a19450b5">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\infer-annotations-4.0_2e6346121c49ae92ce86398b438130c52453af2f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\8b28c0b9976174438bfa8b3cb723c8a21fcaaedd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_c351d36ec015bcfda512b3815213b5a778d9000d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\fd6458a2dc84269b19b7103149c21fb6f8f1aafa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_ec86903f0674dfbcd0220cfee5597eed3380cc7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\28d7db3b2f204e14dd225eb9b784cc5326ff3b50\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="131115ec18ae3951c1584c543de8baa9ac20012a">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_efffb7aefcdf2bc508875054f53d6609c7bddd61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\d88ba506a89b3344b2cadc2205793ceb45f6662e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ec224ad624f39212bacaf5903d989fe066166e7a">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_e70dbc0d8c77f6bbcfde0a5157935feb3b6c8833\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\7d14da1f7be9d3f78d8a4e7dfe882de638a9addf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="287f4dec8dc2d40a238b12562b437438499cd2fb">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_333aafd3513a35c4a67a7cea27f6f5ba4a67dff8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\1ebcbb58c057ab6bd842792fcc7c1e6704b15aef\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="82231c00c16c59ee23a508bec9fc6bc3e60c96b2">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\infer-annotations-4.0_4f4d5d2b1ed7f9cdf10a5fd17b1a2f927473c9d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\2b65133fb4b3238647cf76d940ff91c485e3be23\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_15ce19f8e2b0d3690b1625658b2870adb1558177\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\153106c0232e67eeea98734562c5c2dff6a8b2da\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="13469de5eef4b3c0488c0e4963fef197fc745f8a">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_45b5f2d3ff35f318faba6afa3449cbeaee4342f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\f6a1d1df5e7ef08c9caaa7faf36fc3f93896761d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="10c32fcf3d0acc4b208fc39f8d2e16b69ef8bd3b">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_3bc0bb604ce0bf9286dccc12a79b7f34af9f2215\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\a969002e7706bf4bf3f38d54646a4ad8f3607c6c\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6eb79bde4cf6bbb7573bcf7dfbaf8a313f57612e">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\infer-annotations-4.0_c77a8b6231a2762a32653c57c49cfb403bd83a3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\jsr305-3.0.0_ac3ed5418cd3b5c91aab92c4d55beb598ff3ae54\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\765e9c1720023d80dfd6ab363f8befd82cdf5666\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_4cc249bb1afd9e943d6be136e3c6ca7793256484\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\9c5b402198bb678f6eb914eb2f235824ab9d5d90\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_267ff1507fc176ee98008edb5e749a2bdff670cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\952341cb877a6e35b18c4467730f936bf6a845e8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="42a37372fca7123a593202ba76a7f98fbd691f05">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_29cc7dde1a8fa1812dd1c7b999dfa7d473ebc2ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\7b510cbb625fb44f0db99b1a02afe14f637e3b9f\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f9558f8bf566536221101e576b5c398787cfcbc3">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\infer-annotations-4.0_4cd2880412c86fb1629564b8b1b22f35e9aba020\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\8aeb851f7adc2fecee4e586a937c15af8b3c3303\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e6172a6e0872c156ae82fe8b51d82b2daed424aa">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_9d3820ff0a7bcd4a1dba6765368fe2317582f786\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\3975f0ae3728f2d5ef3b8b52fe25f7be65c4dbc0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="53dc9d74b0ac22d201549cd806780597d9679e9a">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_766b425fe0c33d8101883392df030bae34d5194e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\79405e620ec30c01414fc5ca784e7fb244ff7f1a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_de8ccee0d387ec53244b0409e3f1853b8c31086c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\bolts-applinks-1.4.0_41ce5289a5e85bc8b56e0cafb34c5205a2dcebbc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\24e1b33aa55a6d57532ea1eaba391c20b340dea2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_116e7a9181b1ee5b15e4974b43b4cad60ed956c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\8785fd8c4e4d1f2c2370fdc54b220b3d7c675cd8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="765f07d2233e2e7f1f77fbae57361781a5a9c406">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_11ac5d50f11e62e3a97604b7aab30cca2def2a87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\516d245823b0f3ec903869a3520127afd8859442\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dff4d8f88fe2c0e57306e6981fd9b90caeead7e3">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_f5eae036598782b402b1ec082a182ca6c5d848e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\f01a3f92ca0730506a5fb9a29705ad4f31a846ac\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_1795c8061e8d4f428d0aa4743c291e94bea84914\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\9392c46cbb00549baa512195f0fb22e2b7044f48\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47803d3db7213b155bf0a1876ba920d29000abaa">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_1caf2ea37869c315e85acf9c261e4c59e660eecc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.gradle\caches\modules-2\files-2.1\com.facebook.stetho\stetho-okhttp3\1.3.1\c596b3b33b5a92107bb70544bb5ee35f597bc6d8\stetho-okhttp3-1.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c596b3b33b5a92107bb70544bb5ee35f597bc6d8">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\stetho-okhttp3-1.3.1_bbd7e6fb35ef94a0f8c89f0e028235a6ed4a4c2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\ecf020b5a7c4d36efb95068311ebfb17358e3ad1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dc83ab7a5ce1e0296cf18a52a6edbcfef815e6cf">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_3cd5c04b13f10cb0e01e7cf67ea18d74928df4d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\53f8517d2c5cd71f6d97dc4fe38353adc9f3ee1f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_c36a25b093035d559e3c7188c9f1096a5315e1e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\464de680934174332e9b2bb70110b45e6e60b860\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_4781869d501bbe7006899a6dc65cd6b0f3897a11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.gradle\caches\modules-2\files-2.1\com.madgag.spongycastle\core\1.53.0.0\619f704791db186304325bd129b2e7ec34f77438\core-1.53.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="619f704791db186304325bd129b2e7ec34f77438">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\core-1.53.0.0_b16ddda1a259a567794162913e4ae6593cab7b97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\60a2a72ee22d2e9b679c13196548cd1164659fde\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="53e8932b1ac8c7dfc35cfeda1f9efbc9822ceaf3">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_4986ddda9f0258c338222d2f52dff82639edb82a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\9e3cde100563e736204fe7797fc839235b79f4f1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_964f2ef92f0a1030107f85fd9129bd5e71539c3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.gradle\caches\modules-2\files-2.1\com.facebook.device.yearclass\yearclass\1.0.1\adfc67ed7e13d1648f20c2a5d6cb757ce43d9c22\yearclass-1.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="adfc67ed7e13d1648f20c2a5d6cb757ce43d9c22">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\yearclass-1.0.1_0f069412809109ca83d300b02a024d715e636d41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.3.0\73c49077166faa4c3c0059c5f583d1d7bd1475fe\core-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\core-3.3.0_833f2de3825ebb056c074a0a8061c90acd466405\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\1cb759fb27054b455cc870462dfe27cca7069136\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\infer-annotations-4.0_a68eece5c861c4ea80aa9245dd659d6ada57f527\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\javax.inject-1_2602fcc5a5c22827470422364a36759efd70339f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\7194b4bf8b6caa1d0490c26a6d1baf2d0876a204\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e7424f816f538c2acfba6169b25e297ea22afbd8">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_66df8b6629d5da928f5a74360c1d2bcc72ae83f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\221a30ee36de3b98423fdfb5d8fc7b68b63d29a7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="611605b6b640c1558f9bdea41de8ff837ab68ca8">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_7b59da994b8b682cad93d547636d991110287569\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\2d96da9d46f86cc1141a9464c662011e8d60983c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ad5bb101ced4d3939225c9b57e5a3d81547c1fbb">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_cb4cd7df871855fde5b97368fa77bc4aa4e1798f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\184910233dc2c8ae2d2fbc1a6ee3dee1b9b59566\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_e94b6a94ce261121f635db0ae5e30675bdce7ef6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\90afd3d9ce5299aee2023035a9f5399ca1e2cf93\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5b65ec1ebc84af3baecfd28954c9e7ff01b937a8">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_5db1cdf67c9965751eca5e2499c29b3102d85dec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\b73d19524e2a659dd0b8cde554c7dcafde3c8ec0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_2f5f2905030a40221234962b19be1f7adb0b9514\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.gradle\caches\modules-2\files-2.1\com.facebook.stetho\stetho\1.3.1\2c4076b466a0eb4d6ddf5721edd35cd1adc1f317\stetho-1.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c4076b466a0eb4d6ddf5721edd35cd1adc1f317">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\stetho-1.3.1_a9f8f889d193158bf4c98eddef28f1933106641b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\7b510cbb625fb44f0db99b1a02afe14f637e3b9f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="68d8ffe33fc5c2feb623b2e216dfc180e7540cd5">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_b7f9204aa2054c5bbb3768cbc1b388815b88f5fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\df09c1d2c172c98a83b90dd105f480a4a8a0e73e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_04016d0c0b766306c7367babe200c525c1d52acc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\7686a8e564ca6196b159ba903c1d0a769a7c08eb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c9ef45dcbd082cd63aac09a5e2cd443adb5df837">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_fb51e1d37cc63e0bd4ec712f9cab248ebe1e5085\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\c1124b210f0e714e0874aefe93edd64f9fe65df7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2482bfd874e8b3927f4141105674ad392ff83698">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_65dcb4b3418c9fe2ff57a582c1813406e16fc44a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\8d3ff81e6e29395b1aa636ec317fc5aed93d2994\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a5db9a2dd46d84285ef737f65030b74b6e8ee2a4">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_a8e96fa741b264511adb4821f125ed5c60c8b583\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\a3ae25ca269bd91fc742248fe0567b6d1c15f814\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="82ea5a937ab84229fbd2f3fc8cf2a72cbdf0ee0f">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_75bdc10b7d7f6db56b8f62928254de633241f26e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\butterknife-7.0.1_a841e67fc45a9fa7d0abb0fffb16cbb6c83fb6fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.gradle\caches\modules-2\files-2.1\commons-codec\commons-codec\1.10\4b95f4897fa13f2cd904aee711aeafc0c5295cd8\commons-codec-1.10.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4b95f4897fa13f2cd904aee711aeafc0c5295cd8">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\commons-codec-1.10_88930b087fd30e52a577c21bb6a369ec52cad9e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\882904ae801d8ca07076a1d1486d1887c9a4c88b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="03530f261b6f66dbcae414f12c732bd943f5ba53">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_b368fd8f472d599b703793f4c452dae5690432fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.0.1\e1bb32b12b25e2f78e6786059ca7ea878f8345e0\support-annotations-26.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e1bb32b12b25e2f78e6786059ca7ea878f8345e0">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\support-annotations-26.0.1_d83615a69782c2c2d41299cce2aec64805bd0220\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\a969002e7706bf4bf3f38d54646a4ad8f3607c6c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cac4539de2fbfcb1c4c44c55166f0332b92d34b7">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_5e56f648a5897f0f5a25c42e98456ecd2c8dc56d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\42411b013491262449d4d76b134ddf2f6a324810\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="910c013c511f752c4bbe24c5f492f669f4a3ccc0">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_9b0a6ae81e9e72076c2f6ae1b0f109112dc00586\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\40b8741855db1ecabf501b24f188f01e9482e811\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_df8927e275376d8eaabee4e26920d95b0f0d5d90\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.gradle\caches\modules-2\files-2.1\com.segment.analytics.android\analytics\4.3.0\88ab91d4641af4bed4b39aa3fd7cf487b66b9d5e\analytics-4.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88ab91d4641af4bed4b39aa3fd7cf487b66b9d5e">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\analytics-4.3.0_f820c8e5b559b7220ac3ea7cdeb64d25556bbaa3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\e36ec8ab7e75b9e8277ca5253910a0c7111e0f02\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="083e7bc5a9d9404b49b8f34e5091532361fa28e6">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_597c1f086d2ff54c76ab29f629aed0ce33a0b8e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.gradle\caches\modules-2\files-2.1\de.greenrobot\eventbus\2.4.0\ddd166d01b3158d1c00576d29f7ed15c030df719\eventbus-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\eventbus-2.4.0_938fc68ad07c3238e51bf6608cf9023e124ec023\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\4987fb65d16a41c8ae3410bf1ae737843a38e97d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2f1cc63c85dfeb86263311713a0810d23112495e">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_f67473ab4ea655a1f9ee36dff253f657045481b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\9c7ce3b2833fe0dce62454c76451f05ccbee96d1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="906fdd57c143ec9adc27a76a697fed1c0cfd6348">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_27c252d7f1bf35f1acd93ef867dd452404e56f89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\54548383c3b73b22f1972e1e0c2df8fcb1a7fc5b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a7bf36963372211d8b9e000939020b1c3242234e">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_149c1d0e0808dc459fc3f7bbe77d1ac69bd594c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\2d22a56003d92380c81e19f2a0e08ac7bb61b5c8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c97dc8446f6a46da5620f40b3737e162d53c40c2">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_2136752343776da18d84ae77bbfcc48970e6bbde\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\39273c1908413982bfeda4b324c4b98ff95e7e0a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_b8a9936955f21450f350da29fa0562cfec758d45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\0ce2152ffdba34483d574bd68eb17b63b4fb64d8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a34a28ae586a32e1a33eeb63378732b473cad2be">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_ea4e18ba944ec0313febb055993fc12aaf6d4f7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\1ebcbb58c057ab6bd842792fcc7c1e6704b15aef\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="418dca1ee8bac0cc2f78f8f34b594c4d89eec057">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_78cfffe78e1501a49cef92256a3fb58aa541011b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.gradle\caches\modules-2\files-2.1\com.nostra13.universalimageloader\universal-image-loader\1.9.5\442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375\universal-image-loader-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\universal-image-loader-1.9.5_c68791403dda325758a66ff7cdd45fac8fb2cb09\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\maven\expolib_v1\com\squareup\okhttp3\okhttp-urlconnection\3.6.0\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ae77d4921dcf287b3776baabfbca09b55616ab13">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\okhttp-urlconnection-3.6.0_48a83f2ea2b2ad3a240b55869aa9ab180405450f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\maven\expolib_v1\com\squareup\okhttp3\okhttp\3.6.0\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="565de69ddf97fffe074cba6cb0512520cdce4394">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\okhttp-3.6.0_68370ebd58ddb234d55c45aa03e9cb611f1f9e37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.gradle\caches\modules-2\files-2.1\com.madgag.spongycastle\prov\1.53.0.0\72c4892e05c7563fbab0c4ada0187cd879113389\prov-1.53.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="72c4892e05c7563fbab0c4ada0187cd879113389">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\prov-1.53.0.0_fc76a5d25a11e07d9d2c26716e4f5a9c7dcdcbdc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\b4cc7ae65729aecba02e42be172793285ed4e0e4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b346a5d3fc5d6d1d36c6262c8cc865b76df9f40c">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_901c1a0c31e3a13b2515408d6f8eadc7c96bbe3c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.4.1\63994437f62bc861bc20c605d12962f7246116d1\okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\okhttp-urlconnection-3.4.1_8c608d46f897014d8c65e93a61e7eae3ffc93b9e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\610be205d2297a9d7f404eafe5582d3031cd46ff\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_d2ba125c765e4aaf3f61f4b137456f31f24d348e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\okio-1.9.0_0abb7f43c510674a59180b08cbd0f8763a657712\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\9392c46cbb00549baa512195f0fb22e2b7044f48\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="edaed5c051302ba960315d8e3161935f3df40f65">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\infer-annotations-4.0_75afba4ff618703a4eb2ba175af944c17ec98024\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\41a0794e8b913c5c8a3330bb9c8b3ec8552754e4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9af3b9b8114e685291aa00e6572b0a9131244956">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_830ba4896a8a64ad19f7c77112a3c477a773bae1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.gradle\caches\modules-2\files-2.1\commons-cli\commons-cli\1.2\2bf96b7aa8b611c177d329452af1dc933e14501c\commons-cli-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\commons-cli-1.2_1ede6592bbcf495b3ed55010c8831d6d66b3c07c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\5140bc48ff9e800b3d6630612d6b97aa3f9e830f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="adfb92acadeeff1086115fff6b318e95df8b2b29">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_69764381cfa55a270a518468b874f9f3bf1c87a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\4c2a80794dec8114a726a0d7764ef6a3ea92d1ba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_d0395cb42cbc791881e90ac8c326337177306637\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\4d0c2f06160fd20cd55de9c9fdaeecb3c6fb09fc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_5074518dfb97dc149a66dc92258bbe11627a8e05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\77af5ef68d0f548efa45331a10631cdd3a1159da\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b8b26b28aae0ba8e2db55ad9fe0ebc770530c5ef">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_3bcfc681109f7ffaa6a549e93f534a08ed0246cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\e7e92ffe9b204e1d9de3707791220411632a434a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_18b3cfc0c4cc08af65e51bccdc2dd16cdf5b6d35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\node_modules\react-native-html-to-pdf\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9e97c4ad14ddec44595626f85dadb6b81ffd3c08">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\4\classes_db761b0da126b4b743beedfe96c58fa8a5f1cbab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\1cb759fb27054b455cc870462dfe27cca7069136\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="20be4fc45af5a418fbbfb8d1040020b64b187885">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_c1f1c5a3b254cd7ebeacd9042c4ea14138f88563\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\50111a6cf1ab1551cf8bd9d065b6e19452b21967\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_2b32d22d0deb921150a9c6bf14865919f357c646\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\91bf3db66415d0d2c3fe62e45772eec4f14e77c5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_c20c5bfbca652a8430023d2f4048dfe9a4d5a74f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\ac0c51e03e93dc8288b05e29e277769aa381b6a8\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7a30a80d40b875fec941cafdceaf514b74ca6d76">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\infer-annotations-4.0_3f9c28e82b85f059122047b0bd0b2909b3f97de5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\39d37ee13ed6698795b92b5587e35b5bf1e82670\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d095503f29a8dedc55b9326ed97a5902a1527ab9">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_6d897f869478276421c8b6019a5f925d20e929c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\41c8c861222b084e389e5254a459d76baaf60248\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="71af915b7f4f7ec0b5f768b365145bb6a5cb9a66">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_0c10e31a4a666b884631b073cfc0daf6c61211b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\596e05489255a24f09aa4e2a6e5f2e6ba8acfa86\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ffde64dbb0fc07c8b9735c6c42a06a36be15ed13">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_cb7009ce308b7c211abc49b593bea32b6006cc85\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\staticlayout-proxy-1.0_0a54cc8431023a1cab2ae860d8666baa78e5b9c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.3\1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14\jackson-core-2.2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\jackson-core-2.2.3_d40540de4d85d5115571ddf2ecd81265813a8985\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\fb60fb51414eb075189dd347d399e3db8c042cfd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a4590fa7eadce322ca893129fdc999074e1aa5bf">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_3cec0a35c245ce931bc48d44c4a5e50ec5da8eeb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\bolts-tasks-1.4.0_b53d4d95d58d01b12011078291dd6db9860f001c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\a582c76781d98432bbfe6eff9bce98273b08e7bf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_114acc73e1446efa73cc3206be01b2bf523ea61c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\f174e15652338d0e6c383a6b85fccd0f4bd8e3b3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_8395c09a585bcab35cdce6fd51152daff5f10bd5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\de94acc91c83bbad694bd02e90a98996e9401378\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_de7ec77c8dac2ca573098760db35bcaecf4d6b65\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\picasso-2.5.2_c42029cbb075d3cc7f04b4a00ef03cdfa421610a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\c3e1468bf2317da1749bb6a8920ab6b605ea2667\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="af69623378285932372eb7b3b8ff0ef66fa42b93">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_37c8d5e98c60418f40f2d0d09b3a39f0eb256e73\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\a2bda407f6543e28b84879199460755a6baaff57\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a88eaa7f9a31907def9a7968367475bdf5170be">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_531d20d577c3bd99c001945037989fcf733eebb3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\b7b70955ca9c824fdc0ffa51285bab0d7ee5dce5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ffbd3e8e40ef62a454f4c3990aa70bbda3ffa596">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_19ad9d3eccd2909eaccd8b339b9f02e4b28b9654\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\24015a89c7cbeb42a4bc690999685e5bb6a40064\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_62d5502e1ff8e87b7d89a61fed005e3f0e335747\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\cdb5459f61835d4aa73feb8d926e79f766b15999\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a2f9209ff0d33539df6866d019181ecd1ecd047">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_47d4e416c2f09f15a5968a6d68003b9bcc346299\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\maven\expolib_v1\com\squareup\okio\okio\1.13.0\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="89890cffce351fec7caf3fdfd4351c7f4b4769b4">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\okio-1.13.0_6ad5643d63e814d546cc95a8b2d29446fa5e6e66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\da254ae322790e1704d2536011076c0a049a1f6c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="681eeeaec5300e5257ad9bf889c3859ba3833d5a">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_84025238ff3be68de338eabb7e3e8ad97528b77d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\7642bcf0063442526a762b3d3b7c50dba2813355\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="22c673e65215e0764add61e3102946de895439e4">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_863d24874b1d4b1e33ef644a7acdfc3621c12a89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\e5c137a736b11c49597a034a59758ff1c205c1aa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9111e38999fee0b16a1ccd057b779f5b08f330e2">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_0c4e4a511c36bba68f5b285f9d1a2a94840c084b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\66d43741a0b4ee9f4e70ee459e67215c9afab4c6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fa112f9589a72edd6c8458764cd65e80a39e6d8c">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_7e18e0643deb708ad2e939e6f4d6b86f4d488908\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\8aeb851f7adc2fecee4e586a937c15af8b3c3303\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="83d6e98f2b48f3cf1ec0e7c2b3bf2b3d4618f680">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\infer-annotations-4.0_c8947d272ebb998814b27e1c7cd21fc053d5b3c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.gradle\caches\modules-2\files-2.1\com.amplitude\android-sdk\2.9.2\5ff2f760c3bcad9d4e60f1f84aa695321184ebc0\android-sdk-2.9.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5ff2f760c3bcad9d4e60f1f84aa695321184ebc0">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\android-sdk-2.9.2_286d0c7241ad202dff2f3f5f874738529192f4c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\2099734db9da1d723196cc2891708cc3826d0613\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dae2154348a4c38a18e8d1042cf445faea4647d0">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_a144b562f2ef7bd9d3719a8ebdb94cfbb648c9a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\5cfd5a3f275462f3afe3e3de90a033dc61457df0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_21f9dadbac04ff2b8eb47a7952282acbf85b6c65\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\0b13f1f9e9bfd1f0b9e5732dfeb9cb316ad1a55d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_c629cf4a54d53201693c50a5c599f62e1592287f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\1c07cacc01d9654879777724b93465d30e5d4092\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c83a644dfc8545d77ed076721762fc4eb4092d81">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_5074ee05c0bb089ae6293976c67fac0a194d9e97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\428eb25ce22321fbea844e6ef7342996655c9914\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0d394688dd7030b83dea8eed3fa483410c24afe0">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_199f790aa64fa13ac55e229ab1065649ad8e2f44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.gradle\caches\modules-2\files-2.1\commons-io\commons-io\1.3.2\b6dde38349ba9bb5e6ea6320531eae969985dae5\commons-io-1.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b6dde38349ba9bb5e6ea6320531eae969985dae5">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\commons-io-1.3.2_789b61dff426499c807be6537b743a4e4bb93c71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\455c9a2866faf6ad68cca16e0f85931a87245824\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_9a55e3a307d4c5455f64bcf5dc0ac4eb9ec045cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\1b5762a2f400e595a1fa3e16d9eb0070e9586100\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a7a04d6b7c01e569a285fa627cf64f5b05295906">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_94268db6e14b99a588c16cdea9a9ed3d83e01781\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\18043cbe26f6e4c951fb4cb2ed910f14f1279566\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_e909129ad2e86f6c87c809c7cbe8713e0861087c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP Pavilion\.android\build-cache\ac0c51e03e93dc8288b05e29e277769aa381b6a8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a774607cf90ca991586347daa59ed0de0ad9cb49">
+        <dex dex="C:\Users\HP Pavilion\Documents\noby-coding\expo-detach-issue\android\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\classes_a8a4101bc9cf8dadffbfc7d3a2c5b6ffd8cecff8\classes.dex" />
+    </item>
+
+</items>

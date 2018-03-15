@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\expo-detach-issue\\android\\app\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-xxhdpi\\dev_icon.png",
+        "source": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\expo-detach-issue\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\dev_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\expo-detach-issue\\android\\app\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\HP Pavilion\\Documents\\noby-coding\\expo-detach-issue\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]
